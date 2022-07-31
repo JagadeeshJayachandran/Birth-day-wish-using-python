@@ -1,1 +1,1 @@
-# Birth-day-wish-using-pythong
+# Birth-day-wish-using-python
